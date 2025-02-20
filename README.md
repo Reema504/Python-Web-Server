@@ -19,12 +19,7 @@ This project sets up a simple Python web server using the built-in `http.server`
    cd Python-Web-Server
  python server.py
  http://localhost:8080
-
-
-### **Next Steps:**  
-1. Create a new file named `README.md` in your repository.  
-2. Copy and paste the above content.  
-3. Commit and push the file to GitHub.  
+  
 
 
 ![Running server] (IMG-20250220-WA0065.jpg)
