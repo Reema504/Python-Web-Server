@@ -23,5 +23,5 @@ This project sets up a simple Python web server using the built-in `http.server`
 
 
 ![Running server] (IMG-20250220-WA0065.jpg)
-!![cmd output] (IMG-20250220-WA0066~2.jpg)
+![cmd output] (https://photos.app.goo.gl/cCXiAh95q7TvCz97A)
 ![view the page] (IMG-20250220-WA0066~3.jpg)
