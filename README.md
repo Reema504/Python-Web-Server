@@ -26,8 +26,6 @@ This project sets up a simple Python web server using the built-in `http.server`
 2. Copy and paste the above content.  
 3. Commit and push the file to GitHub.  
 
-Now your project looks professional and is easier to understand! Let me know if you want any modifications.
-!
 
 ![Running server] (IMG-20250220-WA0065.jpt)
 !![cmd output] (IMG-20250220-WA0066~2.jpt)
