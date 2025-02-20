@@ -27,6 +27,6 @@ This project sets up a simple Python web server using the built-in `http.server`
 3. Commit and push the file to GitHub.  
 
 
-![Running server] (IMG-20250220-WA0065.jpt)
-!![cmd output] (IMG-20250220-WA0066~2.jpt)
-![view the page] (IMG-20250220-WA0066~3.jpt)
+![Running server] (IMG-20250220-WA0065.jpg)
+!![cmd output] (IMG-20250220-WA0066~2.jpg)
+![view the page] (IMG-20250220-WA0066~3.jpg)
